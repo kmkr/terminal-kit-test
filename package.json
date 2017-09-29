@@ -1,0 +1,22 @@
+{
+  "name": "terminal-kit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmkr/terminal-kit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmkr/terminal-kit-test/issues"
+  },
+  "homepage": "https://github.com/kmkr/terminal-kit-test#readme",
+  "dependencies": {
+    "terminal-kit": "^1.13.11"
+  }
+}
